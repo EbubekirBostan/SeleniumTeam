@@ -1,5 +1,5 @@
 package Deneme01;
 
-public class deneme02 {
+public class Deneme_02 {
 
 }

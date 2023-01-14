@@ -1,2 +1,5 @@
-package Deneme01;public class Deneme_06 {
+package Deneme01;
+
+public class Deneme_06 {
+
 }
